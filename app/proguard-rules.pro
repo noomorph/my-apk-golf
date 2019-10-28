@@ -20,4 +20,4 @@
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
 
--keep class com.fractalwrench.** { *; }
+-keep class b.c.** { *; }
